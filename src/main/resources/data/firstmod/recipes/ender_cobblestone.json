@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    "ECE",
+    "EEE"
+  ],
+  "key": {
+    "E": {
+      "item": "firstmod:ender_shard"
+    },
+    "C": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "result": {
+    "item": "firstmod:ender_cobblestone"
+  }
+}
